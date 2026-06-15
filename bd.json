@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Coraline",
+        "email": "email@email.com",
+        "celular": "(42) 99577-0099",
+        "cpf": "101.782.343-45",
+        "cep": "75014000",
+        "rua": "Rua de la Santé",
+        "numero": "42",
+        "bairro": "Montparnasse",
+        "cidade": "Paris",
+        "estado": "SP"
+    },
+    {
+        "nome": "Yeonjun",
+        "email": "yawnzzn@email.com",
+        "celular": "(42) 99588-1100",
+        "cpf": "144.733.145-99",
+        "cep": "04389460",
+        "rua": "Hangang-daero",
+        "numero": "42",
+        "bairro": "Yongsan-gu",
+        "cidade": "Seul",
+        "estado": "SP"
+    },
+    {
+        "nome": "Hyunjin",
+        "email": "hynjinreidelas@email.com",
+        "celular": "+82 2-2225-8100",
+        "cpf": "251.789.114-78",
+        "cep": "04305407",
+        "rua": "Gangdong-daero",
+        "numero": "205",
+        "bairro": "Gangdong-gu",
+        "cidade": "Seul",
+        "estado": "SK"
+    }
+]
