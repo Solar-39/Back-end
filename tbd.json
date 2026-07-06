@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "nome": "África do Sul",
+    "posicao_ranking_fifa": 59,
+    "tecnico": "Hugo Broos",
+    "jogadores_destaque": [
+      "Percy Tau",
+      "Teboho Mokoena",
+      "Ronwen Williams"
+    ],
+    "regiao": "África"
+  },
+  {
+    "id": 2,
+    "nome": "Alemanha",
+    "posicao_ranking_fifa": 16,
+    "tecnico": "Julian Nagelsmann",
+    "jogadores_destaque": [
+      "Jamal Musiala",
+      "Florian Wirtz",
+      "Kai Havertz"
+    ],
+    "regiao": "Europa"
+  },
+  {
+    "id": 3,
+    "nome": "Argélia",
+    "posicao_ranking_fifa": 46,
+    "tecnico": "Vladimir Petković",
+    "jogadores_destaque": [
+      "Riyad Mahrez",
+      "Said Benrahma",
+      "Amine Gouiri"
+    ],
+    "regiao": "África"
+  },
+  {
+    "id": 4,
+    "nome": "Argentina",
+    "posicao_ranking_fifa": 1,
+    "tecnico": "Lionel Scaloni",
+    "jogadores_destaque": [
+      "Lionel Messi",
+      "Lautaro Martínez",
+      "Alexis Mac Allister"
+    ],
+    "regiao": "América do Sul"
+  },
+  {
+    "id": 5,
+    "nome": "Austrália",
+    "posicao_ranking_fifa": 25,
+    "tecnico": "Tony Popovic",
+    "jogadores_destaque": [
+      "Mathew Ryan",
+      "Harry Souttar",
+      "Nestory Irankunda"
+    ],
+    "regiao": "Oceania"
+  },
+  {
+    "id": 6,
+    "nome": "Áustria",
+    "posicao_ranking_fifa": 22,
+    "tecnico": "Ralf Rangnick",
+    "jogadores_destaque": [
+      "Marcel Sabitzer",
+      "Konrad Laimer",
+      "Christoph Baumgartner"
+    ],
+    "regiao": "Europa"
+  },
+  {
+    "id": 7,
+    "nome": "Bélgica",
+    "posicao_ranking_fifa": 6,
+    "tecnico": "Domenico Tedesco",
+    "jogadores_destaque": [
+      "Kevin De Bruyne",
+      "Youri Tielemans",
+      "Jeremy Doku"
+    ],
+    "regiao": "Europa"
+  },
+  {
+    "id": 8,
+    "nome": "Bósnia e Herzegovina",
+    "posicao_ranking_fifa": 74,
+    "tecnico": "Sergej Barbarez",
+    "jogadores_destaque": [
+      "Edin Džeko",
+      "Sead Kolašinac",
+      "Ermedin Demirović"
+    ],
+    "regiao": "Europa"
+  },
+  {
+    "id": 9,
+    "nome": "Brasil",
+    "posicao_ranking_fifa": 5,
+    "tecnico": "Dorival Júnior",
+    "jogadores_destaque": [
+      "Vinicius Junior",
+      "Rodrygo",
+      "Raphinha"
+    ],
+    "regiao": "América do Sul"
+  },
+  {
+    "id": 10,
+    "nome": "Cabo Verde",
+    "posicao_ranking_fifa": 65,
+    "tecnico": "Bubista",
+    "jogadores_destaque": [
+      "Ryan Mendes",
+      "Garry Rodrigues",
+      "Bebé"
+    ],
+    "regiao": "África"
+  },
+  {
+    "id": 11,
+    "nome": "Canadá",
+    "posicao_ranking_fifa": 49,
+    "tecnico": "Jesse Marsch",
+    "jogadores_destaque": [
+      "Alphonso Davies",
+      "Jonathan David",
+      "Stephen Eustáquio"
+    ],
+    "regiao": "América do Norte"
+  },
+  {
+    "id": 12,
+    "nome": "Colômbia",
+    "posicao_ranking_fifa": 9,
+    "tecnico": "Néstor Lorenzo",
+    "jogadores_destaque": [
+      "James Rodríguez",
+      "Luis Díaz",
+      "Jhon Durán"
+    ],
+    "regiao": "América do Sul"
+  },
+  {
+    "id": 13,
+    "nome": "Costa do Marfim",
+    "posicao_ranking_fifa": 38,
+    "tecnico": "Emerse Faé",
+    "jogadores_destaque": [
+      "Franck Kessié",
+      "Sébastien Haller",
+      "Simon Adingra"
+    ],
+    "regiao": "África"
+  },
+  {
+    "id": 14,
+    "nome": "Croácia",
+    "posicao_ranking_fifa": 12,
+    "tecnico": "Zlatko Dalić",
+    "jogadores_destaque": [
+      "Luka Modrić",
+      "Joško Gvardiol",
+      "Mateo Kovačić"
+    ],
+    "regiao": "Europa"
+  },
+  {
+    "id": 15,
+    "nome": "Equador",
+    "posicao_ranking_fifa": 27,
+    "tecnico": "Sebastián Beccacece",
+    "jogadores_destaque": [
+      "Moises Caicedo",
+      "Piero Hincapié",
+      "Enner Valencia"
+    ],
+    "regiao": "América do Sul"
+  },
+  {
+    "id": 16,
+    "nome": "Egito",
+    "posicao_ranking_fifa": 31,
+    "tecnico": "Hossam Hassan",
+    "jogadores_destaque": [
+      "Mohamed Salah",
+      "Omar Marmoush",
+      "Mostafa Mohamed"
+    ],
+    "regiao": "África"
+  },
+  {
+    "id": 17,
+    "nome": "Espanha",
+    "posicao_ranking_fifa": 3,
+    "tecnico": "Luis de la Fuente",
+    "jogadores_destaque": [
+      "Lamine Yamal",
+      "Nico Williams",
+      "Rodri"
+    ],
+    "regiao": "Europa"
+  },
+  {
+    "id": 18,
+    "nome": "Estados Unidos",
+    "posicao_ranking_fifa": 17,
+    "tecnico": "Mauricio Pochettino",
+    "jogadores_destaque": [
+      "Christian Pulisic",
+      "Weston McKennie",
+      "Folarin Balogun"
+    ],
+    "regiao": "América do Norte"
+  },
+  {
+    "id": 19,
+    "nome": "França",
+    "posicao_ranking_fifa": 2,
+    "tecnico": "Didier Deschamps",
+    "jogadores_destaque": [
+      "Kylian Mbappé",
+      "Ousmane Dembélé",
+      "Bradley Barcola"
+    ],
+    "regiao": "Europa"
+  },
+  {
+    "id": 20,
+    "nome": "Gana",
+    "posicao_ranking_fifa": 64,
+    "tecnico": "Otto Addo",
+    "jogadores_destaque": [
+      "Mohammed Kudus",
+      "Inaki Williams",
+      "Thomas Partey"
+    ],
+    "regiao": "África"
+  },
+  {
+    "id": 21,
+    "nome": "Holanda",
+    "posicao_ranking_fifa": 7,
+    "tecnico": "Ronald Koeman",
+    "jogadores_destaque": [
+      "Virgil van Dijk",
+      "Cody Gakpo",
+      "Xavi Simons"
+    ],
+    "regiao": "Europa"
+  },
+  {
+    "id": 22,
+    "nome": "Inglaterra",
+    "posicao_ranking_fifa": 4,
+    "tecnico": "Thomas Tuchel",
+    "jogadores_destaque": [
+      "Harry Kane",
+      "Jude Bellingham",
+      "Cole Palmer"
+    ],
+    "regiao": "Europa"
+  },
+  {
+    "id": 23,
+    "nome": "Japão",
+    "posicao_ranking_fifa": 18,
+    "tecnico": "Hajime Moriyasu",
+    "jogadores_destaque": [
+      "Takefusa Kubo",
+      "Kaoru Mitoma",
+      "Takumi Minamino"
+    ],
+    "regiao": "Ásia"
+  },
+  {
+    "id": 24,
+    "nome": "Marrocos",
+    "posicao_ranking_fifa": 14,
+    "tecnico": "Walid Regragui",
+    "jogadores_destaque": [
+      "Achraf Hakimi",
+      "Brahim Díaz",
+      "Aymane El Wafi"
+    ],
+    "regiao": "África"
+  },
+  {
+    "id": 25,
+    "nome": "México",
+    "posicao_ranking_fifa": 15,
+    "tecnico": "Javier Aguirre",
+    "jogadores_destaque": [
+      "Santiago Giménez",
+      "Edson Álvarez",
+      "Luis Chávez"
+    ],
+    "regiao": "América do Norte"
+  },
+  {
+    "id": 26,
+    "nome": "Noruega",
+    "posicao_ranking_fifa": 47,
+    "tecnico": "Ståle Solbakken",
+    "jogadores_destaque": [
+      "Erling Haaland",
+      "Martin Ødegaard",
+      "Antonio Nusa"
+    ],
+    "regiao": "Europa"
+  },
+  {
+    "id": 27,
+    "nome": "Paraguai",
+    "posicao_ranking_fifa": 56,
+    "tecnico": "Gustavo Alfaro",
+    "jogadores_destaque": [
+      "Julio Enciso",
+      "Miguel Almirón",
+      "Gustavo Gómez"
+    ],
+    "regiao": "América do Sul"
+  },
+  {
+    "id": 28,
+    "nome": "Portugal",
+    "posicao_ranking_fifa": 8,
+    "tecnico": "Roberto Martínez",
+    "jogadores_destaque": [
+      "Cristiano Ronaldo",
+      "Bruno Fernandes",
+      "Rafael Leão"
+    ],
+    "regiao": "Europa"
+  },
+  {
+    "id": 29,
+    "nome": "RD Congo",
+    "posicao_ranking_fifa": 61,
+    "tecnico": "Sébastien Desabre",
+    "jogadores_destaque": [
+      "Chancel Mbemba",
+      "Yoane Wissa",
+      "Simon Banza"
+    ],
+    "regiao": "África"
+  },
+  {
+    "id": 30,
+    "nome": "Senegal",
+    "posicao_ranking_fifa": 21,
+    "tecnico": "Pape Thiaw",
+    "jogadores_destaque": [
+      "Sadio Mané",
+      "Nicolas Jackson",
+      "Kalidou Koulibaly"
+    ],
+    "regiao": "África"
+  },
+  {
+    "id": 31,
+    "nome": "Suécia",
+    "posicao_ranking_fifa": 28,
+    "tecnico": "Jon Dahl Tomasson",
+    "jogadores_destaque": [
+      "Viktor Gyökeres",
+      "Alexander Isak",
+      "Dejan Kulusevski"
+    ],
+    "regiao": "Europa"
+  },
+  {
+    "id": 33,
+    "nome": "Tundra",
+    "posicao_ranking_fifa": 44,
+    "tecnico": "Skipper",
+    "jogadores_destaque": [
+      "kowalski",
+      "rico",
+      "recruta"
+    ],
+    "regiao": "ANTARTICA"
+  }
+]
