@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "nome": "Apaga Apaga Apaga",
+    "autor": "Danilo e Davi",
+    "duracao": "2:37",
+    "estilo": "Sertanejo",
+    "mesLancamento": 2,
+    "anoLancamento": 2024
+  },
+  {
+    "id": 2,
+    "nome": "Gosta de Rua",
+    "autor": "Felipe e Rodrigo",
+    "duracao": "2:47",
+    "estilo": "Sertanejo",
+    "mesLancamento": 8,
+    "anoLancamento": 2024
+  },
+  {
+    "id": 3,
+    "nome": "Clone",
+    "autor": "Luan Santana",
+    "duracao": "3:03",
+    "estilo": "Sertanejo",
+    "mesLancamento": 10,
+    "anoLancamento": 2024
+  },
+  {
+    "id": 4,
+    "nome": "Última Saudade",
+    "autor": "Henrique e Juliano",
+    "duracao": "2:58",
+    "estilo": "Sertanejo",
+    "mesLancamento": 1,
+    "anoLancamento": 2025
+  },
+  {
+    "id": 5,
+    "nome": "Dois Tristes",
+    "autor": "Simone Mendes",
+    "duracao": "2:45",
+    "estilo": "Sertanejo",
+    "mesLancamento": 3,
+    "anoLancamento": 2025
+  },
+  {
+    "id": 6,
+    "nome": "Me Leva Pra Casa / Escrito nas Estrelas",
+    "autor": "Lauana Prado",
+    "duracao": "4:21",
+    "estilo": "Sertanejo",
+    "mesLancamento": 5,
+    "anoLancamento": 2024
+  },
+  {
+    "id": 7,
+    "nome": "MTG Quem Não Quer Sou Eu",
+    "autor": "DJ Topo e Seu Jorge",
+    "duracao": "2:26",
+    "estilo": "Funk",
+    "mesLancamento": 9,
+    "anoLancamento": 2024
+  },
+  {
+    "id": 8,
+    "nome": "Let’s Go 4",
+    "autor": "MC IG, MC Ryan SP e MC PH",
+    "duracao": "4:35",
+    "estilo": "Funk",
+    "mesLancamento": 12,
+    "anoLancamento": 2024
+  },
+  {
+    "id": 9,
+    "nome": "Descer Pra BC",
+    "autor": "Brenno e Matheus, DJ Ari SL",
+    "duracao": "2:31",
+    "estilo": "Funk",
+    "mesLancamento": 1,
+    "anoLancamento": 2025
+  },
+  {
+    "id": 10,
+    "nome": "Automotivo Bibi Fogosa",
+    "autor": "Bibi Babydoll e DJ Brunin XM",
+    "duracao": "2:09",
+    "estilo": "Funk",
+    "mesLancamento": 11,
+    "anoLancamento": 2024
+  },
+  {
+    "id": 11,
+    "nome": "Set dos Casados",
+    "autor": "MC Daniel",
+    "duracao": "3:12",
+    "estilo": "Funk",
+    "mesLancamento": 4,
+    "anoLancamento": 2025
+  },
+  {
+    "id": 12,
+    "nome": "Faz um Vuk Vuk",
+    "autor": "MC Kevin O Chris",
+    "duracao": "2:44",
+    "estilo": "Funk",
+    "mesLancamento": 2,
+    "anoLancamento": 2025
+  },
+  {
+    "id": 13,
+    "nome": "Coração Partido",
+    "autor": "Grupo Menos é Mais",
+    "duracao": "3:05",
+    "estilo": "Pop",
+    "mesLancamento": 7,
+    "anoLancamento": 2024
+  },
+  {
+    "id": 14,
+    "nome": "Escândalo Íntimo",
+    "autor": "Luísa Sonza",
+    "duracao": "2:58",
+    "estilo": "Pop",
+    "mesLancamento": 8,
+    "anoLancamento": 2024
+  },
+  {
+    "id": 15,
+    "nome": "Tudo Que a Fé Pode Tocar",
+    "autor": "Léo Foguete",
+    "duracao": "2:49",
+    "estilo": "Pop",
+    "mesLancamento": 3,
+    "anoLancamento": 2025
+  },
+  {
+    "id": 16,
+    "nome": "Piloto",
+    "autor": "Flora Matos",
+    "duracao": "3:14",
+    "estilo": "Pop",
+    "mesLancamento": 9,
+    "anoLancamento": 2024
+  },
+  {
+    "id": 17,
+    "nome": "Erro Gostoso",
+    "autor": "Simone Mendes",
+    "duracao": "2:38",
+    "estilo": "Pop",
+    "mesLancamento": 6,
+    "anoLancamento": 2024
+  },
+  {
+    "id": 18,
+    "nome": "Mó Paz",
+    "autor": "Matuê",
+    "duracao": "3:08",
+    "estilo": "Pop",
+    "mesLancamento": 10,
+    "anoLancamento": 2024
+  },
+  {
+    "id": 19,
+    "nome": "Amor na Praia",
+    "autor": "Ana Castela",
+    "duracao": "2:52",
+    "estilo": "Sertanejo",
+    "mesLancamento": 1,
+    "anoLancamento": 2025
+  },
+  {
+    "id": 20,
+    "nome": "Barulho do Foguete",
+    "autor": "Zé Neto e Cristiano",
+    "duracao": "3:01",
+    "estilo": "Sertanejo",
+    "mesLancamento": 11,
+    "anoLancamento": 2024
+  }
+]

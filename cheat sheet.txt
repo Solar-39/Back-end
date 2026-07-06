@@ -1,0 +1,65 @@
+------------------------------
+## 🚀 Cheat Sheet: API REST com Express & File System## 📦 1. Configuração do Ambiente (Setup)
+Comandos iniciais de terminal para criar e preparar a pasta do projeto.
+
+* npm init -y: Cria o arquivo package.json aceitando todas as perguntas como "sim".
+* npm i express: Instala o framework web Express.
+* bd.json: Arquivo de texto criado manualmente na raiz do projeto com o conteúdo [] (um array vazio) para servir de banco de dados.
+
+------------------------------
+## 🏗️ 2. Estrutura Base e Importações
+O esqueleto obrigatório para qualquer API Express rodar.
+
+const express = require('express') // Importa o Expressconst app = express()              // Inicializa o Expressconst port = 3000                  // Define a porta do servidor
+app.use(express.json())            // Middleware: Habilita leitura de JSON no req.bodyconst fs = require('fs')           // Importa módulo nativo para ler/escrever arquivos
+
+------------------------------
+## 📝 3. Banco de Dados em Arquivo (fs + JSON)
+Como ler e salvar dados na falta de um banco de dados real.
+
+| Operação | Código | O que faz? |
+|---|---|---|
+| Ler Dados | JSON.parse(fs.readFileSync('bd.json', 'utf8')) | Lê o texto do arquivo e transforma em Array JavaScript. |
+| Salvar Dados | fs.writeFileSync('bd.json', JSON.stringify(dados), 'utf8') | Transforma o Array em texto e grava no arquivo de vez. |
+
+------------------------------
+## 🔀 4. Anatomia das Rotas HTTP (CRUD)## 📥 POST: Criar (/clientes)
+
+* Dado recebido: Vem no formato JSON dentro de req.body.
+* Validação: Object.keys(cliente).length === 0 checa se o objeto enviado está vazio.
+* Lógica: Lê o array atual do arquivo ➔ Faz um .push(novoCliente) ➔ Salva o arquivo atualizado.
+* Status de Sucesso: 201 Created.
+
+## 📤 GET: Ler/Listar (/clientes)
+
+* Dado recebido: Nenhum.
+* Lógica: Lê o arquivo JSON ➔ Retorna a lista completa direto no res.json().
+* Status de Sucesso: 200 OK.
+
+## 🔄 PUT: Atualizar (/clientes/:cpf)
+
+* Dado recebido: O ID vem na URL (req.params.cpf) e as modificações vêm no req.body.
+* Busca: Usado .findIndex() com Regex replace(/[^\d]/g,'') para ignorar pontos/traços do CPF.
+* Mesclagem: O operador Spread ... junta o cadastro antigo com as novidades do req.body, mantendo o CPF original intacto.
+* Status de Sucesso: 200 OK (ou 404 Not Found se o índice for -1).
+
+## ❌ DELETE: Excluir (/clientes/:cpf)
+
+* Dado recebido: Identificador na URL (req.params.cpf).
+* Lógica: Encontra o índice do cliente ➔ Usa .splice(indice, 1) para remover exatamente aquela posição do array ➔ Salva o arquivo modificado.
+* Status de Sucesso: 200 OK (ou 404 Not Found).
+
+------------------------------
+## ⚠️ 5. Respostas e Tratamento de Erros
+
+* try { ... } catch (error) { ... }: Se qualquer linha dentro do try falhar (ex: o arquivo bd.json sumir), o código pula para o catch sem derrubar o servidor.
+* Códigos de Status HTTP utilizados:
+* 200: Sucesso em requisições gerais (GET, PUT, DELETE).
+   * 201: Sucesso na criação de recursos (POST).
+   * 400: Erro do cliente (Requisição mal feita / corpo vazio).
+   * 404: Não encontrado (Cliente não existe no banco).
+   * 500: Erro interno do servidor (Problema no código ou no arquivo).
+
+------------------------------
+Você quer adicionar comentários explicativos linha por linha dentro do seu próprio código para deixar guardado, ou prefere ajuda para criar exemplos de requisições que você vai colar no RapidAPI Client?
+
