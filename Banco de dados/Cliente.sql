@@ -2,9 +2,8 @@ CREATE TABLE Cliente
 ( 
  id INT PRIMARY KEY AUTO_INCREMENT,  
  nome VARCHAR(100) NOT NULL,  
- cpf CHAR NOT NULL,  
- email VARCHAR(100) NOT NULL,  
- celular CHAR NOT NULL,  
- senha VARCHAR NOT NULL,  
- UNIQUE (cpf,email)
+ cpf CHAR (11) NOT NULL UNIQUE,  
+ email VARCHAR(100) NOT NULL UNIQUE,  
+ celular CHAR (11) NOT NULL,  
+ senha VARCHAR (512) NOT NULL,  
 ); 
