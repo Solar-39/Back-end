@@ -17,7 +17,7 @@ INSERT INTO `Cliente`(
 )
 
 INSERT INTO `Cliente` (nome, cpf, email, celular, senha) VALUES 
-('Naoi Rei', '111.222.333-44', 'naoirei@gmail.com', '(42) 98888-1111', 'senhaRei123'),
+('Naoi Rei', '111.222.333-44', 'naoirei@gmail.com', '(42) 98888-1111', 'NaoriRei123'),
 ('Lily Jin Park Morrow', '222.333.444-55', 'lilyjin@gmail.com', '(42) 98888-2222', 'lilyMorrow99'),
 ('Lee Won-hee', '333.444.554-66', 'wonhee.lee@gmail.com', '(42) 98888-3333', 'illitWonhee0'),
 ('Kim Juhoon', '444.555.666-77', 'juhoonkim@gmail.com', '(42) 98888-4444', 'juhoon9876'),
